@@ -1,0 +1,75 @@
+======================================================================
+WALLET SCANNER SIMULATOR - RESULTS
+======================================================================
+
+SUMMARY
+----------------------------------------
+Total Addresses: 10,000
+Scanned: 10,000
+Success Rate: 95.18%
+Active Wallets Found: 7
+Total Balance: 855.57666294
+Rich Wallets (>1000): 0
+Scan Time: 26.19 seconds
+Scan Rate: 381.8 addresses/second
+
+ACTIVE WALLETS FOUND
+----------------------------------------
+  1. Address: rSuCkxHkqBr7wjtQHivLmP4gRtu5atnbU6
+     Type: ripple
+     Balance: 758.70510255
+     Transactions: 111
+     Status: Active
+     Tags: large, active
+
+  2. Address: 0xa0545539b0710d019246e7db54ef97f3c06005a5
+     Type: ethereum
+     Balance: 35.92234712
+     Transactions: 109
+     Status: Active
+     Tags: medium, active, exchange
+
+  3. Address: 1dFkH7YNZjkLjzjVc2UW8iG9tLf7LRvJ77
+     Type: bitcoin
+     Balance: 21.80077692
+     Transactions: 58
+     Status: Active
+     Tags: medium, active
+
+  4. Address: 0x9cb88dfba613990f033eff6ddec5bc330b65f60a
+     Type: ethereum
+     Balance: 20.21248033
+     Transactions: 47
+     Status: Active
+     Tags: medium, active
+
+  5. Address: 0xd11b7e44342791d7dac4f70421be1d7680c1e39c
+     Type: ethereum
+     Balance: 11.42460483
+     Transactions: 31
+     Status: Active
+     Tags: medium, active
+
+  6. Address: 1hbbf8e8fwbkPyfiKaY98yREqvSiLrxZzm
+     Type: bitcoin
+     Balance: 4.48809956
+     Transactions: 43
+     Status: Active
+     Tags: medium, active, nft
+
+  7. Address: bc1q4fdmmye6wwvter2g6wwst03e4rpav5095hslyjh
+     Type: bitcoin
+     Balance: 3.02325163
+     Transactions: 40
+     Status: Active
+     Tags: medium, active
+
+CONFIGURATION
+----------------------------------------
+Addresses Generated: 10000
+Worker Threads: 8
+Active Probability: 0.001
+Rich Probability: 0.0001
+Scan Delay: 0.001s
+Simulation Speed: 1.0x
+Timestamp: Mon Jan 26 15:47:06 2026
